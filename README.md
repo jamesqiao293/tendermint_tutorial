@@ -1,3 +1,6 @@
+# 说明
+本资料来自汇智网教程http://xc.hubwiz.com/course/5bdec63ac02e6b6a59171df3?affid=cw7878
+
 # Tendermint区块链开发详解
 
 本课程针对go开发人员，高效学习如何基于tendermint开发自己专有的区块链。
